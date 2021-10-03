@@ -1,16 +1,16 @@
 const images = [
-    'pic-1.jpeg',
-    'pic-2.jpeg',
-    'pic-3.jpeg',
-    'pic-4.jpeg',
-    'pic-5.jpeg',
-    'pic-6.jpeg',
-    'pic-7.jpeg',
-    'pic-8.jpeg',
-    'pic-9.jpeg',
-    'pic-10.jpeg',
-    'pic-11.jpeg',
-    'pic-12.jpeg',
+    'images/pic-1.jpeg',
+    'images/pic-2.jpeg',
+    'images/pic-3.jpeg',
+    'images/pic-4.jpeg',
+    'images/pic-5.jpeg',
+    'images/pic-6.jpeg',
+    'images/pic-7.jpeg',
+    'images/pic-8.jpeg',
+    'images/pic-9.jpeg',
+    'images/pic-10.jpeg',
+    'images/pic-11.jpeg',
+    'images/pic-12.jpeg'
 ];
 
 let imageIndex = 0;
